@@ -1,0 +1,14 @@
+{
+  "mints": [
+    {
+      "name": "Example Project",
+      "date": "2026-12-01T20:00:00+07:00",
+      "chain": "Robinhood",
+      "price": 0,
+      "supply": 1000,
+      "phase": "GTD",
+      "url": "https://example.com",
+      "example": true
+    }
+  ]
+}
